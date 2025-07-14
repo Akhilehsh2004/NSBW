@@ -97,7 +97,7 @@ function HomePage() {
           {[{
             title: "China-Pakistan Threat Axis",
             desc: "A report on coordinated destabilization in South Asia. Strategic review by NSB.",
-            file: "NSB_Report1.pdf"
+            file: "National Security Blackwing Report.pdf"
           }, {
             title: "Cyber Defense Strategy 2040",
             desc: "Framework to defend India’s digital borders with AI-powered solutions.",
