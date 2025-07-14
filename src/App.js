@@ -101,11 +101,11 @@ function HomePage() {
           }, {
             title: "Cyber Defense Strategy 2040",
             desc: "Framework to defend India’s digital borders with AI-powered solutions.",
-            file: "National Security Blackwing Report.pdf.pdf"
+            file: "National Security Blackwing Report.pdf"
           }, {
             title: "Kashmir Intelligence Brief",
             desc: "Assessment of terror infiltration networks and communication blackouts.",
-            file: "National Security Blackwing Report.pdf.pdf"
+            file: "National Security Blackwing Report.pdf"
           }].map((report, index) => (
             <Box key={index} p={6} bg={cardBg} borderRadius="lg" shadow="xl">
               <Heading fontSize="xl" mb={2}>{report.title}</Heading>
